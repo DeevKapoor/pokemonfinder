@@ -1,1 +1,2 @@
 # pokemonfinder
+simple pokedex tool
